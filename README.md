@@ -79,6 +79,7 @@ _\*в интеграции используется OAUTH 2.0 (ограниче�
  - amoCRM интеграция  
  https://habr.com/ru/post/650019/  
  https://prog-time.ru/kak-peredat-dannye-iz-formy-v-amocrm-s-pomoshhyu-api/  
+ https://github.com/andrey-tech/amocrm-api-php   
  - dadata интеграция  
  https://dadata.ru/api/find-party/  
  - исходник  
